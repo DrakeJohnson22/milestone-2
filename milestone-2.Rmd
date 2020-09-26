@@ -8,6 +8,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Repository Link
+
+https://github.com/DrakeJohnson22/milestone-2
+
 
 ## Human Trafficking and Exploitation
 
