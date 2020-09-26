@@ -1,0 +1,49 @@
+---
+title: "milestone-2"
+author: "Drake Johnson"
+date: "9/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Human Trafficking and Exploitation
+
+While I find this project to be very interesting, there are a number of 
+corrections I would suggest be made to it. The first critique is of the
+usefulness of the circle-and-ribbon graphic that visualizes the movement of
+victims from country to country. It is not quite easy to ready, and another
+world map with some of these major arrows (potentially from continent to
+continent) would be much easier to read. Next, I recommend that the age
+breakdowns of those who are trafficked be broaken down into smaller, more
+specific subgroups such that readers can have a better understanding of exactly
+what age ranges are the most targetted, especially within the adult subgroup.
+The graphic exploring the type of explotation being imposed could be improved
+with some deeper clarification of what the "other" type of exploitaion would
+be, considering how comparatively large that subgroup is. Lastly, all of the "A
+Closer Look" graphics should have position = "dodge" and be facet wrapped so
+that they are easier to understand for eyes unfamiliar to data graphics. It
+might also be useful to include a "total exploitation" bar for each gender so
+that we can still compare how these gender breakdowns compare to one another.
+Otherwise, I found the interactive elements of the project (particularly the
+drop-down options for many graphs) to simplify navigation and make the location
+of particular graphs easier.
+
+
+## The War on Drugs: Let the Numbers Speak
+
+I found this project to be very interesting and to be full of useful graphics
+and information. One distinct improvement I would love to see is better
+descriptions and explanations of every graph that is provided. There are a lot
+of graphics but it is easy to be overwhelmed or not truly understand what
+information is being provided because that is all there is, just graphics. The
+landing page was a great introduction to the project but explanations like
+these, even if just brief paragraphs, would do well to improve the project. All
+animated graphics should also have a "Replay" option so that viewers can take
+a moment to simply look at the complete graphic instead of having to watch the
+animation every time. Finally, the "Spending" graphics would be better
+displayed as line graphs as opposed to a bar graph. Otherwise, I found the
+immense amount of analyzed data to be helpful, along with the project
+introduction provided much needed historical context.
